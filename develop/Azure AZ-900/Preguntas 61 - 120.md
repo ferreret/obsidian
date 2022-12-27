@@ -30,8 +30,37 @@
 | 088    |  OK   |     |
 | 089    |  OK   |     |
 | 090    |  OK   |     |
-| 062    |     |     |
-| 062    |     |     |
-| 062    |     |     |
-| 062    |     |     |
-| 062    |     |     |
+| 091    |  OK   |     |
+| 092    |  OK   |     |
+| 093    |  OK   |     |
+| 094    |  OK   |     |
+| 095    |  OK   |     |
+| 096    |  OK   |     |
+| 097    |  --   | Local network gateways    |
+| 098    |  OK   |     |
+| 099    |  OK   |     |
+| 100    |  OK   |     |
+| 1O1    |  --   | Creo que la respuesta está mal     |
+| 102    |  OK   |     |
+| 103    |  OK   |     |
+| 104    |  --   | VM's can be moved between azure subscriptions    |
+| 105    |  --   | Virtual network gateway and gateway subnet    |
+| 106    |  --   | Create new support request to increase AZ subscription limits    |
+| 107    |  --   |     |
+| 108    |  --   |     |
+| 109    |  --   | Containers to store unmanaged data disk of the virtual machine    |
+| 110    |  OK   |     |
+| 111    |  OK   |     |
+| 112    |  OK   |     |
+| 113    |  OK   |     |
+| 114    |  OK   |     |
+| 115    |  OK   |     |
+| 116    |  OK   |     |
+| 117    |  --   | No está claro     |
+| 118    |  OK   |     |
+| 119    |  --   | Limits, higher    |
+| 120    |  OK   |     |
+
+
+
+
