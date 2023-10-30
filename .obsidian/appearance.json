@@ -1,3 +1,9 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Cascadia Mono",
+  "cssTheme": "Tokyo Night",
+  "textFontFamily": "Ubuntu"
 }

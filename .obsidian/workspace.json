@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "175e4f120f0ac3dd",
+        "id": "d5203eb84714ebb3",
         "type": "tabs",
         "children": [
           {
-            "id": "586e333e727de320",
+            "id": "ab12b81fd8de4aaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/Azure AZ-900/Preguntas 61 - 120.md",
+                "file": "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/01 - Visión  estratégica.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f699bd6bcdedd8ed",
+            "id": "ca2deb61fcbed502",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/Azure AZ-900/Preguntas 61 - 120.md",
+                "file": "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/02 - Dónde obtenemos el beneficio.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,12 +77,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "409b8b5f91858ae2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 402.5026054382324
   },
   "right": {
     "id": "ebe6ad3f48dde013",
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/Azure AZ-900/Preguntas 61 - 120.md",
+                "file": "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/02 - Dónde obtenemos el beneficio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/Azure AZ-900/Preguntas 61 - 120.md",
+                "file": "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/02 - Dónde obtenemos el beneficio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/Azure AZ-900/Preguntas 61 - 120.md"
+                "file": "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/02 - Dónde obtenemos el beneficio.md"
               }
             }
           }
@@ -151,16 +159,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f699bd6bcdedd8ed",
+  "active": "ca2deb61fcbed502",
   "lastOpenFiles": [
+    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/01 - Visión  estratégica.md",
+    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/02 - Dónde obtenemos el beneficio.md",
+    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/Preguntas.md",
+    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/Lección 0 - Conceptos básicos antes de empezar.md",
+    "DeepLearning.AI/ChatGPT Prompt Engineering for Developers.md",
+    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente",
+    "Novatos Trading Club",
+    "Bolsa/02 - Plataformas inversión.md",
+    "Bolsa",
+    "DeepLearning.AI",
+    "Pasted image 20230912110514.png",
+    "LangChain - Udemy/02. OpenAI.md",
+    "LangChain - Udemy/0.3 Data Connection.md",
+    "NLP - Udemy/Section 03.md",
+    "NLP - Udemy/Markov Model.md",
+    "LangChain - Udemy/01. LLM.md",
+    "Pasted image 20230804140257.png",
+    "LangChain - Udemy",
+    "Midjourney/Parámetros.md",
+    "NLP - Udemy",
+    "Midjourney",
+    "Master Big Data y Machine Learning/Modulo_07_Entornos_DW/Clase 1 - Datawarehouse vs DataLake.md",
+    "Curso Estadística descriptiva",
+    "English/Questions.md",
+    "Master Big Data y Machine Learning/Modulo_07_Entornos_DW",
+    "English",
+    "Tradning algoritmico/Trading.md",
+    "Bolsa/Curso Platzi.md",
+    "AI 900/Preguntas AI-900.md",
+    "Master Big Data y Machine Learning/Modulo_05_Sistemas_Servicios_Almacenamiento/Clase 1 Fundamentos SQL y Queries.md",
+    "develop/NLP/03 - Vector Models and Text Preporcessing/Stopwords.md",
+    "develop/NLP/03 - Vector Models and Text Preporcessing/Count Vectorizer.md",
     "develop/Azure AZ-900/Repasar.md"
   ]
 }
