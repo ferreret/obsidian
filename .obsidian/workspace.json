@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d5203eb84714ebb3",
+        "id": "f7b7bdb2b3a2d18c",
         "type": "tabs",
         "children": [
           {
-            "id": "ab12b81fd8de4aaa",
+            "id": "07fd07c07704f470",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/01 - Visión  estratégica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca2deb61fcbed502",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/02 - Dónde obtenemos el beneficio.md",
+                "file": "Novatos Trading Club/02 - Soportes y resistencias/4 - Trucos finales.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5026054382324
+    "width": 349.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "ebe6ad3f48dde013",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/02 - Dónde obtenemos el beneficio.md",
+                "file": "Novatos Trading Club/02 - Soportes y resistencias/4 - Trucos finales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/02 - Dónde obtenemos el beneficio.md",
+                "file": "Novatos Trading Club/02 - Soportes y resistencias/4 - Trucos finales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/02 - Dónde obtenemos el beneficio.md"
+                "file": "Novatos Trading Club/02 - Soportes y resistencias/4 - Trucos finales.md"
               }
             }
           }
@@ -167,11 +155,40 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ca2deb61fcbed502",
+  "active": "07fd07c07704f470",
   "lastOpenFiles": [
-    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/01 - Visión  estratégica.md",
-    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/02 - Dónde obtenemos el beneficio.md",
+    "Novatos Trading Club/02 - Soportes y resistencias/3 - Trading con soportes y resistencias.md",
+    "Novatos Trading Club/02 - Soportes y resistencias/4 - Trucos finales.md",
+    "Novatos Trading Club/02 - Soportes y resistencias/2 - Otros soportes y resistencias.md",
+    "Novatos Trading Club/02 - Soportes y resistencias/1 - Qué son y cómo se ponen los soportes y resistencias.md",
+    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/07 - Gestión de la posición.md",
+    "Novatos Trading Club/02 - Soportes y resistencias",
+    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/06 - Técnicas de entrada - Escenario II.md",
+    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/08 - Técnicas de salida.md",
+    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/09 - Juntándolo todo.md",
+    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/10 - Consideraciones finales.md",
+    "DS - ML/Varianza y Sesgo.md",
+    "Age of Empires II/ELO < 1000.md",
+    "Age of Empires II",
     "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/Preguntas.md",
+    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/05 - Técnicas de entrada - Escenario I.md",
+    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/04 - Tipo de órdenes.md",
+    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/03 - Los mejores patrones.md",
+    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/chuleta_ordenes.pdf",
+    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/02 - Dónde obtenemos el beneficio.md",
+    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/01 - Visión  estratégica.md",
+    "Pasted image 20231103153532.png",
+    "Pasted image 20231103153404.png",
+    "Pasted image 20231103153314.png",
+    "Pasted image 20231103153236.png",
+    "DS - ML",
+    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/formacion_completa_tradingreal.pdf",
+    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/glosario.pdf",
+    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/03b - Asi operarás al terminar.md",
+    "Pasted image 20231031112125.png",
+    "Pasted image 20231031105706.png",
+    "Pasted image 20231031105204.png",
+    "Pasted image 20231031103735.png",
     "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/Lección 0 - Conceptos básicos antes de empezar.md",
     "DeepLearning.AI/ChatGPT Prompt Engineering for Developers.md",
     "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente",
@@ -185,22 +202,6 @@
     "NLP - Udemy/Section 03.md",
     "NLP - Udemy/Markov Model.md",
     "LangChain - Udemy/01. LLM.md",
-    "Pasted image 20230804140257.png",
-    "LangChain - Udemy",
-    "Midjourney/Parámetros.md",
-    "NLP - Udemy",
-    "Midjourney",
-    "Master Big Data y Machine Learning/Modulo_07_Entornos_DW/Clase 1 - Datawarehouse vs DataLake.md",
-    "Curso Estadística descriptiva",
-    "English/Questions.md",
-    "Master Big Data y Machine Learning/Modulo_07_Entornos_DW",
-    "English",
-    "Tradning algoritmico/Trading.md",
-    "Bolsa/Curso Platzi.md",
-    "AI 900/Preguntas AI-900.md",
-    "Master Big Data y Machine Learning/Modulo_05_Sistemas_Servicios_Almacenamiento/Clase 1 Fundamentos SQL y Queries.md",
-    "develop/NLP/03 - Vector Models and Text Preporcessing/Stopwords.md",
-    "develop/NLP/03 - Vector Models and Text Preporcessing/Count Vectorizer.md",
-    "develop/Azure AZ-900/Repasar.md"
+    "Pasted image 20230804140257.png"
   ]
 }

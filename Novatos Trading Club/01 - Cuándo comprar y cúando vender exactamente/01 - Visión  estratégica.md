@@ -27,7 +27,7 @@ Depende de estos dos casos, las estrategias a seguir son diferentes.
 
 **Mercado alcista claro**:  Sucesión de máximos y mínimos crecientes claros. Suelen ser operaciones que duran más tiempo. Más paciencia. Es más propio para acciones.
 
-**Otros mercados**: Mas precisos en la entradas y en las salidas. Operaciones más a corto plazo. Soy operaciones más trabajosas. Se utiliza en todo tipo de índices, acciones, etc.
+**Otros mercados**: Mas precisos en la entradas y en las salidas. Operaciones más a corto plazo. Son operaciones más trabajosas. Se utiliza en todo tipo de índices, acciones, etc.
 
 Los gráficos de marcos temporales más grandes son más fáciles de interpretar que los de poco tiempo.
 

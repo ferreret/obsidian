@@ -5,7 +5,7 @@ Se aplican en escenarios de tipo alcista claro y evidente.
 Tiene 4 fases:
 
 - Fase 1: Zona de suelo
-- Fase 2: Zona de ubida
+- Fase 2: Zona de subida
 - Fase 3: Zona de techo
 - Fase 4: Bajada
 
