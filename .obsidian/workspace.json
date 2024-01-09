@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Novatos Trading Club/02 - Soportes y resistencias/4 - Trucos finales.md",
+                "file": "TensorFlow Certification/03 - Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5026054382324,
-    "collapsed": true
+    "width": 349.5026054382324
   },
   "right": {
     "id": "ebe6ad3f48dde013",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Novatos Trading Club/02 - Soportes y resistencias/4 - Trucos finales.md",
+                "file": "TensorFlow Certification/03 - Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Novatos Trading Club/02 - Soportes y resistencias/4 - Trucos finales.md",
+                "file": "TensorFlow Certification/03 - Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Novatos Trading Club/02 - Soportes y resistencias/4 - Trucos finales.md"
+                "file": "TensorFlow Certification/03 - Intro.md"
               }
             }
           }
@@ -157,8 +156,12 @@
   },
   "active": "07fd07c07704f470",
   "lastOpenFiles": [
-    "Novatos Trading Club/02 - Soportes y resistencias/3 - Trading con soportes y resistencias.md",
+    "Kaggle/Chapter 03.md",
+    "TensorFlow Certification/03 - Intro.md",
+    "TensorFlow Certification",
     "Novatos Trading Club/02 - Soportes y resistencias/4 - Trucos finales.md",
+    "Kaggle",
+    "Novatos Trading Club/02 - Soportes y resistencias/3 - Trading con soportes y resistencias.md",
     "Novatos Trading Club/02 - Soportes y resistencias/2 - Otros soportes y resistencias.md",
     "Novatos Trading Club/02 - Soportes y resistencias/1 - Qué son y cómo se ponen los soportes y resistencias.md",
     "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/07 - Gestión de la posición.md",
@@ -194,14 +197,10 @@
     "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente",
     "Novatos Trading Club",
     "Bolsa/02 - Plataformas inversión.md",
-    "Bolsa",
-    "DeepLearning.AI",
     "Pasted image 20230912110514.png",
     "LangChain - Udemy/02. OpenAI.md",
     "LangChain - Udemy/0.3 Data Connection.md",
     "NLP - Udemy/Section 03.md",
-    "NLP - Udemy/Markov Model.md",
-    "LangChain - Udemy/01. LLM.md",
     "Pasted image 20230804140257.png"
   ]
 }
