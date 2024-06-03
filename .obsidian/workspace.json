@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TensorFlow Certification/03 - Intro.md",
+                "file": "LLMs/LangChain for LLM Apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5026054382324
+    "width": 285.5
   },
   "right": {
     "id": "ebe6ad3f48dde013",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TensorFlow Certification/03 - Intro.md",
+                "file": "LLMs/LangChain for LLM Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TensorFlow Certification/03 - Intro.md",
+                "file": "LLMs/LangChain for LLM Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TensorFlow Certification/03 - Intro.md"
+                "file": "LLMs/LangChain for LLM Apps.md"
               }
             }
           }
@@ -146,61 +146,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "07fd07c07704f470",
   "lastOpenFiles": [
-    "Kaggle/Chapter 03.md",
-    "TensorFlow Certification/03 - Intro.md",
-    "TensorFlow Certification",
-    "Novatos Trading Club/02 - Soportes y resistencias/4 - Trucos finales.md",
-    "Kaggle",
-    "Novatos Trading Club/02 - Soportes y resistencias/3 - Trading con soportes y resistencias.md",
-    "Novatos Trading Club/02 - Soportes y resistencias/2 - Otros soportes y resistencias.md",
-    "Novatos Trading Club/02 - Soportes y resistencias/1 - Qué son y cómo se ponen los soportes y resistencias.md",
-    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/07 - Gestión de la posición.md",
-    "Novatos Trading Club/02 - Soportes y resistencias",
-    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/06 - Técnicas de entrada - Escenario II.md",
-    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/08 - Técnicas de salida.md",
-    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/09 - Juntándolo todo.md",
-    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/10 - Consideraciones finales.md",
+    "lesjackson.NET/05 Repository Pattern.md",
+    "Machine Learning/05 - Deployment patterns and tools.md",
+    "LLMs/LangChain for LLM Apps.md",
+    "lesjackson.NET/04 Working with JSON.md",
+    "Machine Learning/04 - Packaging Up.md",
+    "lesjackson.NET/03 User Secrets.md",
+    "Machine Learning/03 - From Model To Model Factory.md",
+    "Machine Learning/02 - Proceso aprendizaje automático.md",
+    "lesjackson.NET/02 VS Code Fundamentals.md",
+    "Machine Learning/01 - Introducción.md",
+    "Pasted image 20240522125630.png",
+    "Pasted image 20240522102452.png",
+    "lesjackson.NET/01 Dependency Injection.md",
+    "tensorflow_lazy_programming/05 Sequence Data.md",
+    "tensorflow_lazy_programming/04 CNN (Convolutional Neural Networks).md",
+    "Screenshot_20240514_135338.png",
+    "lesjackson.NET",
+    "tensorflow_lazy_programming/03 ANN.md",
     "DS - ML/Varianza y Sesgo.md",
-    "Age of Empires II/ELO < 1000.md",
-    "Age of Empires II",
-    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/Preguntas.md",
-    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/05 - Técnicas de entrada - Escenario I.md",
-    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/04 - Tipo de órdenes.md",
-    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/03 - Los mejores patrones.md",
+    "tensorflow_lazy_programming/02 Machine Learning and Neurons.md",
+    "tensorflow_lazy_programming/01 Google Colab.md",
+    "tensorflow_lazy_programming",
+    "Novatos Trading Club/Cripto/Curso Cripto.md",
+    "Novatos Trading Club/ProRealTime/ProRealTime.md",
+    "Kaggle/Competiciones y métricas.md",
+    "fastAPI MoureDev/Apuntes.md",
+    "Algorithmic trading with Binance",
+    "TensorFlow Certification/05 - Binary Classification.md",
+    "TensorFlow Certification/06 - Image classification.md",
+    "TensorFlow Certification/Overfitting - regularizacion L1 y L2.md",
+    "TensorFlow Certification/03 - Intro.md",
+    "LLMs",
+    "Novatos Trading Club/02 - Soportes y resistencias/2 - Otros soportes y resistencias.md",
+    "Novatos Trading Club/Cripto",
     "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/chuleta_ordenes.pdf",
-    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/02 - Dónde obtenemos el beneficio.md",
-    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/01 - Visión  estratégica.md",
-    "Pasted image 20231103153532.png",
-    "Pasted image 20231103153404.png",
-    "Pasted image 20231103153314.png",
-    "Pasted image 20231103153236.png",
-    "DS - ML",
     "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/formacion_completa_tradingreal.pdf",
-    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/glosario.pdf",
-    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/03b - Asi operarás al terminar.md",
-    "Pasted image 20231031112125.png",
-    "Pasted image 20231031105706.png",
-    "Pasted image 20231031105204.png",
-    "Pasted image 20231031103735.png",
-    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente/Lección 0 - Conceptos básicos antes de empezar.md",
-    "DeepLearning.AI/ChatGPT Prompt Engineering for Developers.md",
-    "Novatos Trading Club/01 - Cuándo comprar y cúando vender exactamente",
-    "Novatos Trading Club",
-    "Bolsa/02 - Plataformas inversión.md",
-    "Pasted image 20230912110514.png",
-    "LangChain - Udemy/02. OpenAI.md",
-    "LangChain - Udemy/0.3 Data Connection.md",
-    "NLP - Udemy/Section 03.md",
-    "Pasted image 20230804140257.png"
+    "Pasted image 20240315141701.png",
+    "Pasted image 20240229170049.png",
+    "Pasted image 20240229164929.png",
+    "Novatos Trading Club/ETFs",
+    "Pasted image 20240131172304.png",
+    "Pasted image 20240131171101.png",
+    "Machine Learning",
+    "Novatos Trading Club/03- Rastreadores",
+    "Pasted image 20240110150722.png",
+    "Pasted image 20231103153532.png"
   ]
 }
