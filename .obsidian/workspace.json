@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLMs/LangChain for LLM Apps.md",
+                "file": "lesjackson.NET/05 Repository Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "ebe6ad3f48dde013",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLMs/LangChain for LLM Apps.md",
+                "file": "lesjackson.NET/05 Repository Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLMs/LangChain for LLM Apps.md",
+                "file": "lesjackson.NET/05 Repository Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLMs/LangChain for LLM Apps.md"
+                "file": "lesjackson.NET/05 Repository Pattern.md"
               }
             }
           }
@@ -156,9 +157,9 @@
   },
   "active": "07fd07c07704f470",
   "lastOpenFiles": [
+    "LLMs/LangChain for LLM Apps.md",
     "lesjackson.NET/05 Repository Pattern.md",
     "Machine Learning/05 - Deployment patterns and tools.md",
-    "LLMs/LangChain for LLM Apps.md",
     "lesjackson.NET/04 Working with JSON.md",
     "Machine Learning/04 - Packaging Up.md",
     "lesjackson.NET/03 User Secrets.md",

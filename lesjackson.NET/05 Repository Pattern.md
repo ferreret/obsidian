@@ -41,15 +41,27 @@ version: '3.8'
 Para poner en marcha el docker
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 **NOTA** Solo me funciona si no lo ejecuto desde una unidad montada.
 
 ## Migrations
 
-Iniciar la migración, creal la BBDD según modelos y AppDbContext
+Iniciar la migración, crea la BBDD según modelos y AppDbContext
 
 ``` bash
-dotnet ef migrations add initialmigration
+dotnet ef migrations add InitialMigration
+```
+
+Después de iniciar la migración, hay que actualizar la base de datos
+
+```bash
+dotnet ef database update
+```
+
+### Redis
+
+``` bash
+dotnet add package Microsoft.Extensions.Caching.StackExchangeRedis
 ```
